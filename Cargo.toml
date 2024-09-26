@@ -23,6 +23,3 @@ exclude = [".idea/"]
 [lib]
 name = "libferroxid"
 path = "src/lib.rs"
-
-[dependencies]
-byteorder = "1.4.3"
